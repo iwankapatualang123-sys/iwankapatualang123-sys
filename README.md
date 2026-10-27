@@ -6,7 +6,7 @@ I run a three-branch café group and build the software that runs it — attenda
 
 ### Impact
 
-| | |
+| Result | Detail |
 |---|---|
 | **60 staff** | across 3 branches on one multi-user HR & payroll system I built |
 | **3 days → 3 hours** | payroll processing time |
@@ -33,7 +33,7 @@ I run a three-branch café group and build the software that runs it — attenda
 ### Tech stack
 
 **Frontend:** React · TypeScript · Vite · Zustand · PWA
-**Backend & data:** Supabase · PostgreSQL · Google Apps Script · Google Sheets automation
+**Backend & data:** Supabase · PostgreSQL · MySQL · SQL queries · Google Apps Script · Google Sheets automation
 **Hosting:** Linux VPS · aaPanel · domains & SSL · deployments · backups
 
 ### What people say
